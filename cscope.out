@@ -1,4 +1,114 @@
-cscope 15 /cygdrive/e/Dev/git/c-algorithms -q 0000000772 0000177097
+cscope 15 /cygdrive/e/Dev/git/c-algorithms -q 0000000790 0000177712
+	@config.h
+
+5 
+	#HAVE_DLFCN_H
+ 1
+
+	)
+
+8 
+	#HAVE_INTTYPES_H
+ 1
+
+	)
+
+11 
+	#HAVE_MEMORY_H
+ 1
+
+	)
+
+14 
+	#HAVE_STDINT_H
+ 1
+
+	)
+
+17 
+	#HAVE_STDLIB_H
+ 1
+
+	)
+
+20 
+	#HAVE_STRINGS_H
+ 1
+
+	)
+
+23 
+	#HAVE_STRING_H
+ 1
+
+	)
+
+26 
+	#HAVE_SYS_STAT_H
+ 1
+
+	)
+
+29 
+	#HAVE_SYS_TYPES_H
+ 1
+
+	)
+
+32 
+	#HAVE_UNISTD_H
+ 1
+
+	)
+
+36 
+	#LT_OBJDIR
+ ".libs/"
+
+	)
+
+39 
+	#PACKAGE_BUGREPORT
+ "‰aggÀ@u£rs.sour˚f‹ge.√t"
+
+	)
+
+42 
+	#PACKAGE_NAME
+ "C Alg‹ôhms"
+
+	)
+
+45 
+	#PACKAGE_STRING
+ "C Alg‹ôhm†1.2.0"
+
+	)
+
+48 
+	#PACKAGE_TARNAME
+ "c-Æg‹ôhms"
+
+	)
+
+51 
+	#PACKAGE_URL
+ ""
+
+	)
+
+54 
+	#PACKAGE_VERSION
+ "1.2.0"
+
+	)
+
+57 
+	#STDC_HEADERS
+ 1
+
+	)
+
 	@doc/intro.h
 
 	@src/arraylist.c
@@ -35537,8 +35647,9 @@ NULL
 1
 .
 0
-57
-1008
+58
+1017
+config.h
 doc/intro.h
 src/arraylist.c
 src/arraylist.h
